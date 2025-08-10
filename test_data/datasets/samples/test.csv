@@ -1,0 +1,16 @@
+product_id,product_name,category,price,quantity_sold,revenue,release_date,rating
+1,Laptop Pro X1,Electronics,1299.99,245,318497.55,2023-01-15,4.5
+2,Smartphone Ultra,Electronics,899.99,389,350296.11,2023-02-20,4.7
+3,Wireless Headphones,Electronics,199.99,567,113394.33,2023-01-10,4.3
+4,Gaming Chair,Furniture,349.99,123,42998.77,2023-03-05,4.2
+5,Office Desk,Furniture,299.99,89,26699.11,2023-02-28,4.1
+6,Coffee Maker Deluxe,Appliances,129.99,234,30417.66,2023-01-25,4.4
+7,Smart TV 55",Electronics,799.99,156,124798.44,2023-03-12,4.6
+8,Bluetooth Speaker,Electronics,79.99,445,35595.55,2023-01-08,4.0
+9,Standing Lamp,Furniture,89.99,67,6029.33,2023-02-15,3.9
+10,Tablet Pro,Electronics,599.99,178,106798.22,2023-03-01,4.5
+11,Kitchen Blender,Appliances,89.99,298,26817.02,2023-01-30,4.2
+12,Ergonomic Mouse,Electronics,49.99,512,25594.88,2023-02-10,4.1
+13,Air Purifier,Appliances,249.99,134,33498.66,2023-03-08,4.3
+14,Bookshelf Wooden,Furniture,179.99,45,8099.55,2023-02-22,4.0
+15,Wireless Keyboard,Electronics,69.99,387,27086.13,2023-01-18,4.2

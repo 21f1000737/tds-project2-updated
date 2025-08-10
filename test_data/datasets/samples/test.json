@@ -1,0 +1,74 @@
+{
+  "company_info": {
+    "name": "TechCorp Analytics",
+    "founded": 2018,
+    "employees": 150,
+    "headquarters": "San Francisco, CA",
+    "departments": ["Engineering", "Sales", "Marketing", "HR", "Finance"]
+  },
+  "quarterly_sales": [
+    {
+      "quarter": "Q1 2023",
+      "revenue": 2450000,
+      "units_sold": 3250,
+      "top_products": ["Laptop Pro X1", "Smartphone Ultra", "Wireless Headphones"],
+      "growth_rate": 12.5
+    },
+    {
+      "quarter": "Q2 2023",
+      "revenue": 2890000,
+      "units_sold": 3780,
+      "top_products": ["Smart TV 55\"", "Gaming Chair", "Coffee Maker Deluxe"],
+      "growth_rate": 17.9
+    },
+    {
+      "quarter": "Q3 2023",
+      "revenue": 3150000,
+      "units_sold": 4100,
+      "top_products": ["Tablet Pro", "Air Purifier", "Bluetooth Speaker"],
+      "growth_rate": 9.0
+    },
+    {
+      "quarter": "Q4 2023",
+      "revenue": 3420000,
+      "units_sold": 4350,
+      "top_products": ["Wireless Keyboard", "Kitchen Blender", "Office Desk"],
+      "growth_rate": 8.6
+    }
+  ],
+  "customer_demographics": {
+    "age_groups": {
+      "18-25": 0.15,
+      "26-35": 0.35,
+      "36-45": 0.28,
+      "46-55": 0.15,
+      "56+": 0.07
+    },
+    "geographic_distribution": {
+      "North America": 0.45,
+      "Europe": 0.30,
+      "Asia": 0.20,
+      "Other": 0.05
+    }
+  },
+  "product_categories": {
+    "Electronics": {
+      "total_revenue": 1245680.33,
+      "units_sold": 2534,
+      "avg_rating": 4.35,
+      "return_rate": 0.03
+    },
+    "Furniture": {
+      "total_revenue": 77727.76,
+      "units_sold": 324,
+      "avg_rating": 4.05,
+      "return_rate": 0.05
+    },
+    "Appliances": {
+      "total_revenue": 90733.34,
+      "units_sold": 666,
+      "avg_rating": 4.30,
+      "return_rate": 0.02
+    }
+  }
+}

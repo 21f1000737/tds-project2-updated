@@ -1,0 +1,17 @@
+Analyze the provided TechCorp Analytics data files (test.csv and test.json) and answer the following questions:
+
+1. What is the total revenue across all product categories from the CSV data?
+2. Which product category has the highest average rating according to the JSON data?
+3. Calculate the correlation between price and quantity_sold from the CSV data.
+4. What was the average quarterly growth rate in 2023 according to the JSON data?
+5. Create a bar chart showing revenue by product category (from CSV data). 
+   Return as a base-64 encoded data URI, "data:image/png;base64,iVBORw0KG..." under 100,000 bytes.
+
+Please respond with a JSON object containing the answers:
+{
+  "total_revenue": <number>,
+  "highest_rated_category": "<category_name>",
+  "price_quantity_correlation": <number>,
+  "avg_quarterly_growth": <number>,
+  "revenue_chart": "data:image/png;base64,..."
+}
